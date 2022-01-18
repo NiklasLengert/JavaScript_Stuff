@@ -1,0 +1,1 @@
+This is a small app that just shows a digital clock.
